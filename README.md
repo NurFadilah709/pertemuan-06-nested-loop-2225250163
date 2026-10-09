@@ -62,3 +62,4 @@ Melalui latihan dan tugas pada Pertemuan 06, nested loop dapat digunakan untuk m
 ## Catatan Pengujian
 
 Seluruh program telah dijalankan dan diuji menggunakan beberapa nilai input sesuai dengan ketentuan tugas. Hasil pengujian menunjukkan bahwa program dapat berjalan sesuai dengan hasil yang diharapkan.
+Pengujian dilakukan kembali setelah perbaikan untuk memastikan program berjalan sesuai ketentuan.
