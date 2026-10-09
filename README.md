@@ -59,3 +59,6 @@ Salah satu kesalahan yang perlu diperhatikan dalam nested loop adalah penempatan
 Kesimpulan
 
 Melalui latihan dan tugas pada Pertemuan 06, nested loop dapat digunakan untuk mengolah pasangan data, membuat pola, menghitung jumlah setiap baris, serta melakukan akumulasi dan pencacahan pada tabel perkalian.
+## Catatan Pengujian
+
+Seluruh program telah dijalankan dan diuji menggunakan beberapa nilai input sesuai dengan ketentuan tugas. Hasil pengujian menunjukkan bahwa program dapat berjalan sesuai dengan hasil yang diharapkan.
